@@ -1,0 +1,6 @@
+customhost = "database-2.cn7dqd0uith9.ap-south-1.rds.amazonaws.com"
+customuser = "suvam"
+custompass = "suvam123"
+customdb = "employee"
+custombucket = "suvam-project-bucket"
+customregion = "ap-south-1"
